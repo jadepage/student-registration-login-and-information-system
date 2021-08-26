@@ -1,0 +1,10 @@
+.login-container {
+    display: flex;
+    gap: 20px;
+}
+
+.login-container a {
+    text-decoration: none;
+    color: white;
+}
+

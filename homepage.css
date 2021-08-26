@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+
+}
+
+.btn-block {
+    width: 150px;
+}
+
+body {
+    background:url('home_bg.jpg') #0f2439 no-repeat center top;
+    background-size: cover ;
+    color: #fff;
+}
+
+ th, td {
+    border: 2px solid #fff;
+    padding: 20px;
+}
+
+.headers {
+    margin-top: 50px;
+    text-align: center;
+}
